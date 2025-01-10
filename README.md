@@ -1,28 +1,31 @@
-# tiktoktrendify-terms
-# Terms of Service
+# TiktokTrendify
 
-## Introduction
-Welcome to TiktokTrendify! These terms and conditions outline the rules and regulations for the use of our website and services.
+Welcome to TiktokTrendify! This repository provides tools for discovering trending TikTok content, creating personalized videos, and monetizing through affiliate marketing.
 
-## Acceptance of Terms
-By accessing and using TiktokTrendify, you accept and agree to be bound by the terms and provision of this agreement.
+## Terms of Service
 
-## Changes to Terms
-We reserve the right to update or modify these terms at any time without prior notice. Your continued use of the service after any changes constitutes your acceptance of the new terms.
+### Introduction
+Welcome to TiktokTrendify! These Terms of Service govern your use of our website and services. By accessing and using TiktokTrendify, you agree to comply with these terms.
 
-## Description of Service
-TiktokTrendify provides users with tools and insights for discovering trending TikTok content, creating personalized videos, and monetizing their presence through affiliate marketing.
+### Acceptance of Terms
+By using our services, you acknowledge and accept these Terms of Service. If you do not agree to these terms, please refrain from using our platform.
 
-## User Responsibilities
-- Users must provide accurate and up-to-date information.
-- Users are responsible for maintaining the confidentiality of their account.
-- Users must comply with all applicable laws and regulations.
+### Changes to Terms
+We may update or change these terms at any time, without prior notice. Your continued use of the platform after any changes signifies your acceptance of the updated terms.
 
-## Limitation of Liability
-TiktokTrendify is not liable for any damages or losses resulting from the use of our services.
+### Service Description
+TiktokTrendify provides tools and resources to help users discover trending TikTok content, create personalized videos, and generate income through affiliate marketing.
 
-## Governing Law
-These terms and conditions are governed by and construed in accordance with the laws of Papua New Guinea.
+### User Responsibilities
+- You must provide accurate and up-to-date information when using the service.
+- You are responsible for maintaining the confidentiality of your account information.
+- You agree to comply with all applicable laws and regulations while using TiktokTrendify.
 
-## Contact Us
-If you have any questions or concerns about these terms, please contact us at pauldisi8@gmail.com.
+### Limitation of Liability
+TiktokTrendify is not responsible for any damages or losses that may arise from your use of our services.
+
+### Governing Law
+These terms are governed by the laws of Papua New Guinea.
+
+### Contact Us
+If you have any questions or concerns regarding these terms, please contact us at pauldisi8@gmail.com.
